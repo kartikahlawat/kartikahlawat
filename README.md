@@ -3,7 +3,7 @@
 - Mostly working with Python, ML models, and LLM-based apps.
 - I enjoy turning ideas into working systems — from model training to deployment.
 - Currently exploring AI infrastructure, scalable backends, and distributed systems.
-- Always learning and building something new.src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- Always learning and building something new <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 
 Currently exploring:
