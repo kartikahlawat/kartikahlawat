@@ -1,17 +1,10 @@
-# Hi there 👋 I'm Kartik Ahlawat
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
+- I like building AI projects and backend systems.
+- Mostly working with Python, ML models, and LLM-based apps.
+- I enjoy turning ideas into working systems — from model training to deployment.
+- Currently exploring AI infrastructure, scalable backends, and distributed systems.
+- Always learning and building something new.src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-🎓 B.Tech Computer Science Student at **Vellore Institute of Technology, Chennai**  
-💻 Passionate about **Artificial Intelligence, Machine Learning, and Backend Engineering**  
-🚀 Building **AI systems, scalable backends, and intelligent applications**
-
----
-
-## 🧠 About Me
-
-I am a Computer Science undergraduate focused on building **real-world AI and software systems**.  
-My work spans across **machine learning pipelines, LLM-based applications, backend services, and distributed computing**.
-
-I enjoy building **end-to-end systems — from model training to deployment and backend integration**.
 
 Currently exploring:
 
@@ -44,31 +37,6 @@ Currently exploring:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 
----
-
-## 🚀 Projects
-
-### 🔹 Deep Learning Insect Classifier
-- Built an **end-to-end deep learning pipeline using EfficientNetV2**
-- Trained models using **PyTorch with GPU acceleration**
-- Developed an **interactive Streamlit interface for predictions**
-
-### 🔹 Chat With PDF (LLM Application)
-- Built a chatbot that interacts with **PDF documents using OpenAI GPT**
-- Implemented **document parsing and context extraction**
-- Containerized the application using **Docker**
-
-### 🔹 Adaptive Reinforcement Learning Tutor
-- Built an **AI tutoring system using Q-Learning**
-- Dynamically adjusts question difficulty based on student performance
-- Real-time feedback and analytics via Streamlit
-
-### 🔹 Go WebSocket Chat Server
-- Real-time chat system using **Go and WebSockets**
-- Implemented **REST APIs and SQLite backend**
-- Designed scalable messaging architecture
-
----
 
 ## 📊 GitHub Stats
 
