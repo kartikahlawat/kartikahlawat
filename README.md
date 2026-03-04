@@ -39,12 +39,9 @@ Currently exploring:
 
 
 ## 📊 GitHub Stats
+![kartik's GitHub stats](https://github-readme-statss-eta.vercel.app/api?username=kartikahlawat&show_icons=true&theme=dark)
 
-![Kartik's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
-
----
+[![Top Langs](https://github-readme-statss-eta.vercel.app/api/top-langs/?username=kartikahlawat&layout=compact&langs_count=8&theme=dark)]
 
 ## 🌐 Connect With Me
 
