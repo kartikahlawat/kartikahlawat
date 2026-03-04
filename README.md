@@ -17,26 +17,54 @@ Currently exploring:
 
 ## 🛠 Tech Stack
 
-### Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+<h3>Languages</h3>
+<p>
+<img src="https://skillicons.dev/icons?i=c" height="40"/>
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=cpp" height="40"/>
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
+</p>
 
-### Technologies & Frameworks
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+<h3>Technologies & Frameworks</h3>
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40"/>
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=nodejs" height="40"/>
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=html" height="40"/>
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=css" height="40"/>
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=sqlite" height="40"/>
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=pytorch" height="40"/>
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=openstack" height="40"/>
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=matlab" height="40"/>
+</p>
 
-### Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-
+<h3>Tools</h3>
+<p>
+<img src="https://skillicons.dev/icons?i=git" height="40"/>
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=github" height="40"/>
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=vscode" height="40"/>
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=postman" height="40"/>
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=vercel" height="40"/>
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=linux" height="40"/>
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=blender" height="40"/>
+</p>
 
 ## 📊 GitHub Stats
 ![kartik's GitHub stats](https://github-readme-statss-eta.vercel.app/api?username=kartikahlawat&show_icons=true&theme=dark)
@@ -44,11 +72,13 @@ Currently exploring:
 [![Top Langs](https://github-readme-statss-eta.vercel.app/api/top-langs/?username=kartikahlawat&layout=compact&langs_count=8&theme=dark)]
 
 ## 🌐 Connect With Me
-
-📧 Email: kartikahlawat745@gmail.com  
-💼 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN  
-💻 GitHub: https://github.com/YOUR_GITHUB_USERNAME
-
----
+<div align="left">
+  <a href="https://www.linkedin.com/in/kartik-ahlawat001/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+</div>
 
 ⭐ *Always learning, building, and exploring new technologies.*
